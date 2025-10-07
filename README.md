@@ -28,3 +28,5 @@ Informações do DataFrame: Exibe estrutura e tipos de dados
 Conversão de Datas: Transforma strings de data para formato DateTime
 
 Cálculo de Lucro Total: Soma todos os valores da coluna "Lucro"
+
+akdakdasjdkadkadjkasdjaskdjdjakdjask
